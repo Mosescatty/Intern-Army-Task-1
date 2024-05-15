@@ -17,7 +17,7 @@ body {
 
 h1 {
     text-align: center;
-    color: #6a0dad; /* Purple */
+    color: #230892; /* Blue */
 }
 
 form {
@@ -31,7 +31,7 @@ form {
 label {
     display: block;
     margin-bottom: 5px;
-    color: #6a0dad; /* Purple */
+    color: #230892; /* Blue */
 }
 
 input[type="text"], select, input[type="date"] {
@@ -45,7 +45,7 @@ input[type="text"], select, input[type="date"] {
 button {
     width: auto;
     padding: 8px 15px; /* Adjust padding */
-    background-color: #6a0dad; /* Purple */
+    background-color: #230892; /* Blue */
     color: #fff;
     border: none;
     border-radius: 5px;
@@ -54,7 +54,7 @@ button {
 }
 
 button:hover {
-    background-color: #4c027f; /* Darker purple on hover */
+    background-color: #060363; /* Darker blue on hover */
 }
 
 ul {
@@ -79,7 +79,7 @@ ul {
 }
 
 .deadline-label {
-    color: #6a0dad; /* Purple */
+    color: #230892; /* Blue */
     font-weight: bold;
 }
 
